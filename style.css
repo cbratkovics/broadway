@@ -41,14 +41,9 @@ body {
 
 h3 {
   font-size: 23px;
-  font-weight: bold;
-  color: white;
-}
-
-h4 {
-  color: white;
 }
 
 p {
   font-size: 14px;
+  color: black;
 }
