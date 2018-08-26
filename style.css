@@ -8,6 +8,10 @@
   text-align: left;
 }
 
+#footer p {
+  color: white;
+}
+
 a {
   color: white;
 }
@@ -18,7 +22,7 @@ a {
   color: white;
 }
 
-#banner h1 {
+#banner h3 {
   font-size: 23px;
   font-weight: bold;
   color: white;
